@@ -3,10 +3,10 @@
     <div class="hero-body">
       <div class="container">
         <div class="title is-uppercase">
-          Vue-Scrollama
+        ALOHA        
         </div>
-        <div class="content">
-          <p>A Vue component to easily create scroll-driven interactions (aka scrollytelling)</p>
+        <!-- <div class="content">
+        
           <div class="buttons is-centered">
             <a class="button is-medium" href="https://github.com/shenoy/vue-scrollama#vue-scrollama" target="_blank">
                 <span class="icon">
@@ -26,7 +26,7 @@
           <p>
             Code for this page can be found <a href="https://github.com/shenoy/vue-scrollama/tree/master/demo/src/views" target="_blank">here</a>
           </p>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
